@@ -1,9 +1,12 @@
 body {
-  background-color: darkgray;
+  background-color: darkgray; padding-left: 80px; padding-right: 80px; padding-top: 50px;
 }
 h1 {
   font-size: 50px; text-align: center; padding: 50px; border-width: 10px; border-color: black; border-style: solid; border-radius: 20px; 
 }
 .main-p {
   color: black; padding: 10px; 
+}
+img {
+  width: 250px; border-radius: 125px;
 }
