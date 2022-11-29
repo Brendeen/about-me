@@ -1,0 +1,9 @@
+body {
+  background-color: darkgray;
+}
+h1 {
+  font-size: 50px; text-align: center; padding: 50px; border-width: 10px; border-color: black; border-style: solid; border-radius: 20px; 
+}
+.main-p {
+  color: black; padding: 10px; 
+}
