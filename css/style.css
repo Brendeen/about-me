@@ -1,12 +1,31 @@
 body {
-  background-color: darkgray; padding-left: 80px; padding-right: 80px; padding-top: 50px;
+  background-color: darkgray; 
+  padding-left: 80px; 
+  padding-right: 80px; 
+  padding-top: 50px;
 }
 h1 {
-  font-size: 50px; text-align: center; padding: 50px; border-width: 10px; border-color: black; border-style: solid; border-radius: 20px; 
+  font-size: 50px; 
+  text-align: center; 
+  padding: 50px; 
+  border-width: 10px; 
+  border-color: black; 
+  border-style: solid; 
+  border-radius: 20px; 
 }
+
 .main-p {
-  color: black; padding: 10px; 
+  color: black; 
+  padding: 10px; 
+  list-style-type: square;
 }
+
+.top-10 {
+  color: rgb(103, 0, 0);
+  list-style-type: decimal;
+}
+
 img {
-  width: 250px; border-radius: 125px;
+  width: 250px; 
+  border-radius: 125px;
 }
