@@ -107,7 +107,7 @@ function foodGame() {
       break;
     }
   }
-  alert(`My favorite foods are ${array}`);
+  alert(`My favorite foods are ${array}.`);
 }
 
 alert(`Thank you ${userName} for taking this quiz! You got ${score} out of 7 questions correct! Time for a guessing game..`);
